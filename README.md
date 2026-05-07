@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=hey%2C+i'm+Hussain;I+build+ML+things+that+help+people;mostly+healthcare%2C+always+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Hey%2C+i'm+Hussain;I+build+ML+things+that+help+people;mostly+healthcare%2C+always+Python)](https://git.io/typing-svg)
 
 I'm a machine learning developer based in India, focused on building
 AI tools in the healthcare space. Most of my projects revolve around
@@ -32,20 +32,6 @@ things i've built so far — all in the healthcare/ML space
 | [Fake Currency Detection](https://github.com/Hussain07123/Fake-currency-detection-using-machine-learning-) | spots counterfeit currency using image-based ML |
 | [Heart Disease Prediction API](https://github.com/Hussain07123/Heart-Disease-) | XGBoost model served as a FastAPI — predicts heart disease risk |
 | [Diabetes Risk Predictor](https://github.com/Hussain07123/diabetes-risk-predictor) | Streamlit app with live sliders and a risk dashboard |
-
----
-
-## github stats
-
-![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain07123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain07123&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hussain07123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
