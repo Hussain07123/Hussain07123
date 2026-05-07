@@ -4,7 +4,7 @@
 ---
 
 ```
-> whoami
+> who am i
   Hussain07123
 > status
   ● Building AI/ML projects that actually matter
@@ -17,17 +17,19 @@
 
 ---
 
-## 🤖 Projects
+##  Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🧠 Brain Tumour Detection](https://github.com/Hussain07123/Brain-Tumour-Detections-) | Deep learning model to detect brain tumours from MRI scans | Python, ML |
-| [🎗️ Breast Cancer Assistant API](https://github.com/Hussain07123/Breast-Cancer-Assistant-API-) | API to assist in breast cancer diagnosis using ML | Python, API |
-| [💵 Fake Currency Detection](https://github.com/Hussain07123/Fake-currency-detection-using-machine-learning-) | ML model to detect counterfeit currency | Python, ML |
+| [ Brain Tumour Detection](https://github.com/Hussain07123/Brain-Tumour-Detections-) | Deep learning model to detect brain tumours from MRI scans | Python, ML |
+| [ Breast Cancer Assistant API](https://github.com/Hussain07123/Breast-Cancer-Assistant-API-) | API to assist in breast cancer diagnosis using ML | Python, API |
+| [ Fake Currency Detection](https://github.com/Hussain07123/Fake-currency-detection-using-machine-learning-) | ML model to detect counterfeit currency | Python, ML |
+| [ Heart Disease Prediction API](https://github.com/Hussain07123/Heart-Disease-) | REST API predicting heart disease risk using XGBoost + FastAPI | Python, FastAPI, XGBoost |
+| [ Diabetes Risk Predictor](https://github.com/Hussain07123/diabetes-risk-predictor) | Interactive web app predicting diabetes risk with live dashboard | Python, Streamlit, Random Forest |
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -41,6 +43,6 @@
 
 ---
 
-⚡ "The best way to predict the future is to build it."
+ "The best way to predict the future is to build it."
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hussain07123.Hussain07123)
